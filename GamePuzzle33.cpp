@@ -227,9 +227,6 @@ Game::~Game()
 {
 }
 
-istream& getline (istream& is, string& str, char delim);
-istream& getline (istream& is, string& str);
-
 int main()
 {
     Game game2;
